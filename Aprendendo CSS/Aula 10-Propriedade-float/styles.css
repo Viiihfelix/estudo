@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.fotoViih{
+  height: 300px;
+  float: left;
+  margin: 10px 20px 10px 0px;
+  border: 2px solid rgb(95, 28, 158);
+
+}
+
+.noticias{
+  overflow: auto;
+  margin: 0 0px 0px 5px;
+  color: rgba(0, 0, 0, 0.721);
+}
+
+.cafe{
+  height: 24px;
+  padding-top: 10px;
+}
+
+nav{
+  background-color: plum;
+  padding: 0 40px;
+  height: 50px;
+  color: rgb(95, 28, 158);
+}
+
+ul{
+  float: right;
+
+  li{
+    display: inline-block;
+    line-height: 50px;
+    margin-right: 20px;
+  }
+}
+
+h1{
+    color: rgba(171, 106, 171, 0.74);
+    
+}
